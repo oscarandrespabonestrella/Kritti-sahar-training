@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+import { HighlightDirective } from './highlight.directive';
 
 const routes: Routes = [];
 
